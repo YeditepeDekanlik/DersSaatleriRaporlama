@@ -13,7 +13,7 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-
+    cout<<"hello ardahan";
     return 0;
 }
 
